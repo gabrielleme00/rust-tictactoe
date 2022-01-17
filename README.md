@@ -1,2 +1,2 @@
-# rust-tictactoe
+# Rust-TicTacToe
 Terminal TicTacToe game in Rust
